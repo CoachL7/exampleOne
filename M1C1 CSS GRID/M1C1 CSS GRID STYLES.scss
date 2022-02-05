@@ -1,0 +1,94 @@
+.gridOne {
+  display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+.gridOne p2{
+  color:blue;
+}
+
+.gridTwo {
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+
+.I {
+  background-color: red;
+  width: 500px;
+}
+
+.Love {
+  background-color: blue;
+  width: 500px;
+}
+
+.Pizza {
+   background-color: yellow;
+   width: 900px;
+}
+
+.gridThree {
+  display: grid;
+  grid-row: 2;
+  width: 500px;
+  height: 300px;
+}
+.TMNT {
+   background-color: grey;
+   object-fit: fit;
+}
+
+.TMNT 2 img {
+ width: 500px;
+  height: 225px;
+   object-fit: fit;
+}
+
+.TMNT 3 {
+  background-color: grey;
+}
+
+.gridFour {
+  display: grid;
+  width: 500px;
+  background-color: green;
+  
+}
+
+.awesome-container {
+  display: grid;
+  align-items: center;
+  grid-row: 2;
+  grid-template-columns: 1fr 1fr;
+}
+
+.gridFive {
+  display: grid;
+  grid-template-columns: 1fr;
+  background-color: green;
+  width:500px;
+}
+
+.TMNT img {
+ width: 200px;
+ height: 200px;
+ object-fit: cover;
+}
+
+.gridSix {
+  background-color: lightgrey;
+  display: grid;
+  width: 500px;
+  grid-template-columns: 100px 1fr;
+}
+
+.gridSix p {
+  font-family: 'Comforter', cursive;
+    font-size: 20px;
+    color: black;
+}
+
